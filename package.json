@@ -1,0 +1,27 @@
+{
+  "name": "json-query",
+  "version": "1.0.0",
+  "description": "Query JSON with human-readable path syntax. Like jq but actually learnable. Zero dependencies.",
+  "type": "module",
+  "bin": {
+    "json-query": "./index.js",
+    "jq2": "./index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "developer-tools",
+    "cli",
+    "nodejs",
+    "zero-dependencies",
+    "json",
+    "query",
+    "jq"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickCirv/json-query"
+  }
+}
