@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # json-query
 > Query JSON with human-readable path syntax. Like jq but actually learnable.
 
