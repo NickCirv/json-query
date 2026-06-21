@@ -7,8 +7,11 @@
     "json-query": "./index.js",
     "jq2": "./index.js"
   },
+  "scripts": {
+    "test": "node --test"
+  },
   "engines": {
-    "node": ">=18"
+    "node": ">=20"
   },
   "keywords": [
     "developer-tools",
